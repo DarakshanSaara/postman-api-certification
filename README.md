@@ -18,8 +18,10 @@ This repository documents my completion of the **Postman API Fundamentals Studen
 ## 📸 Certificate Preview
 ![Certificate](https://github.com/user-attachments/assets/523e7d48-5d48-414b-9cb1-4095fad796da)
 
-
 ## 🔧 Tools Used
 - Postman
 - GitHub
 - Markdown
+
+## 📌 Related Work
+This challenge was originally part of the [Postman Challenge by GSSoC](https://github.com/GSSoC24/Postman-Challenge)
